@@ -11,6 +11,10 @@ rgs = {
     name     = "rggcp"
     location = "eastus"
   }
+   rg4 = {
+    name     = "rggcp1"
+    location = "eastus"
+  }
 }
 storages = {
   sg1 = {
